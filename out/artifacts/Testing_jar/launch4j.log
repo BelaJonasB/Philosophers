@@ -1,0 +1,108 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\smite\sciebo\Transfer\OOSE\Testing\out\artifacts\Testing_jar\Philo.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\smite\sciebo\Transfer\OOSE\Testing\out\artifacts\Testing_jar\.
+Java min ver:	1.011.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_231
+Ignore:		1.008.000_231
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\13
+Check launcher:	C:\Program Files\Java\jdk-13\bin\javaw.exe (OK)
+Match:		1.013.000
+Runtime used:	1.013.000 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-13\bin\javaw.exe
+Launcher args:	-jar "C:\Users\smite\sciebo\Transfer\OOSE\Testing\out\artifacts\Testing_jar\Philo.exe" --module-path C:\Users\smite\Downloads\openjfx-11.0.2_windows-x64_bin-sdk\javafx-sdk-11.0.2\lib --add-modules=javafx.controls,javafx.graphics,javafx.base,javafx.fxml
+Args length:	252/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\smite\sciebo\Transfer\OOSE\Testing\out\artifacts\Testing_jar\Philo.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\smite\sciebo\Transfer\OOSE\Testing\out\artifacts\Testing_jar\.
+Java min ver:	1.011.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_231
+Ignore:		1.008.000_231
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\13
+Check launcher:	C:\Program Files\Java\jdk-13\bin\javaw.exe (OK)
+Match:		1.013.000
+Runtime used:	1.013.000 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-13\bin\javaw.exe
+Launcher args:	-jar "C:\Users\smite\sciebo\Transfer\OOSE\Testing\out\artifacts\Testing_jar\Philo.exe" --module-path C:\Users\smite\Downloads\openjfx-11.0.2_windows-x64_bin-sdk\javafx-sdk-11.0.2\lib --add-modules=javafx.controls,javafx.graphics,javafx.base,javafx.fxml
+Args length:	252/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\smite\sciebo\Transfer\OOSE\Testing\out\artifacts\Testing_jar\Philo.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\smite\sciebo\Transfer\OOSE\Testing\out\artifacts\Testing_jar\.
+Java min ver:	1.011.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_231
+Ignore:		1.008.000_231
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\13
+Check launcher:	C:\Program Files\Java\jdk-13\bin\javaw.exe (OK)
+Match:		1.013.000
+Runtime used:	1.013.000 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-13\bin\javaw.exe
+Launcher args:	--module-path C:\Users\smite\Downloads\openjfx-11.0.2_windows-x64_bin-sdk\javafx-sdk-11.0.2\lib --add-modules=javafx.controls,javafx.graphics,javafx.base,javafx.fxml -jar "C:\Users\smite\sciebo\Transfer\OOSE\Testing\out\artifacts\Testing_jar\Philo.exe"
+Args length:	252/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\smite\sciebo\Transfer\OOSE\Testing\out\artifacts\Testing_jar\Philo.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\smite\sciebo\Transfer\OOSE\Testing\out\artifacts\Testing_jar\.
+Java min ver:	1.011.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_231
+Ignore:		1.008.000_231
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\13
+Check launcher:	C:\Program Files\Java\jdk-13\bin\javaw.exe (OK)
+Match:		1.013.000
+Runtime used:	1.013.000 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-13\bin\javaw.exe
+Launcher args:	--module-path C:\Users\smite\Downloads\openjfx-11.0.2_windows-x64_bin-sdk\javafx-sdk-11.0.2\lib --add-modules=javafx.controls,javafx.graphics,javafx.base,javafx.fxml -jar "C:\Users\smite\sciebo\Transfer\OOSE\Testing\out\artifacts\Testing_jar\Philo.exe"
+Args length:	252/32768 chars
+Exit code:	0
